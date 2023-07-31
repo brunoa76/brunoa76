@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brunoa76
 - 👀 I’m interested in Tech, Windows and Linux , Back-End and Front-End
 - 🌱 I’m currently learning techinical information
-- 💞️ I’m looking to collaborate on Java
+- 💞️ I’m looking to collaborate on Java JavaScript and HTML5/CSS3
 - 📫 How to reach me ...
 
 <!---
